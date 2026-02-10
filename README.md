@@ -32,12 +32,6 @@ National Research University Higher School of Economics, Russia*
 - Reviewed the heat method for geodesic distance computation
 - Analysed upper and lower bounds for the heat kernel
 
-### Internship — 2022  
-**Tropical Mathematics and Scientific Computing**  
-*Georg August University Göttingen, Germany*
-- Reviewed the heat method for geodesic distance computation
-- Analysed heat kernel bounds under different conditions
-
 ### Internship — 2021  
 **Parameter Sensitivity Analysis**  
 *Scientific Consulting for Research and Engineering, Strasbourg, France*
