@@ -2,8 +2,10 @@
 
 📍 Strasbourg, France  
 📧 ValentineLevchenko95@gmail.com  
-🎓 valentin.levchenko@etu.unistra.fr  
-📱 +33 7 69 42 23 65  
+📧 valentin.levchenko@etu.unistra.fr  
+📱 +33 7 69 42 23 65 
+GitHub: github.com/valentinlevchenko
+LinkedIn: linkedin.com/in/vallevchenko
 
 ---
 
@@ -18,8 +20,7 @@
 2023  
 
 **BSc in Applied Mathematics**  
-*Moscow Institute of Electronics and Mathematics,  
-National Research University Higher School of Economics, Russia*  
+*Moscow Institute of Electronics and Mathematics, National Research University Higher School of Economics, Russia*  
 2018  
 
 ---
@@ -29,7 +30,7 @@ National Research University Higher School of Economics, Russia*
 ### MSc Thesis — 2022  
 **Small-time Asymptotics for the Heat Kernel on Finite Graphs and Manifolds**  
 *Georg August University Göttingen, Germany*
-- Reviewed the heat method for geodesic distance computation
+- Studied works on the heat method for geodesic distance computation
 - Analysed upper and lower bounds for the heat kernel
 
 ### Internship — 2021  
@@ -44,14 +45,13 @@ National Research University Higher School of Economics, Russia*
 **Phase Diagram of Trapped Polarised Ultracold Gases**  
 *MIEM NRU HSE, Moscow, Russia*
 - Modelled optical lattices using ALPS Python library
-- Implemented phase diagram computation algorithms  
+- Implemented numerical algorithms for phase diagram computation  
 **Technologies:** Python
 
 ### Laboratory Assistant — 2017–2018  
 **Modelling of Collective Phenomena in Many-Particle Systems**  
 *MIEM NRU HSE, Moscow, Russia*
-- Simulated material deformation experiments
-- Applied finite element methods  
+- Simulated material deformation experiments using finite element methods  
 **Technologies:** Matlab, MSC Patran, Excel
 
 ---
@@ -63,31 +63,37 @@ National Research University Higher School of Economics, Russia*
 - Operations research
 - Stochastic processes
 - Ordinary and partial differential equations
-- Graph theory and Algorithms
+- Graph theory and algorithms
 - Optimization
 
-**Computer Science**
+**Scientific Computing**
 - Data science and Big Data analytics
 - Software testing
 - Operating systems
-- Parallel computing (MPI, OpenMP, Kokkos)
-- Databases (PostgreSQL, MongoDB, Neo4j)
 
+**Parallel Computing**
+- MPI, OpenMP, Kokkos
+
+**Databases**
+- PostgreSQL, MongoDB, Neo4j
+  
 **Programming**
 - Python (NumPy, SciPy, pandas, PyTorch, JAX, Optax, scikit-learn, Matplotlib)
 - C / C++
 - SQL
-- Matlab
-- Octave
+- MATLAB
+- GNU Octave
 
-**Basic knowledge**
+**Additional programming exposure**
 - Java, Ruby, Prolog, C#, Swift
 
 **Systems**
 - Linux, macOS, Windows
 
 **Tools**
+- Git
 - LaTeX
+- Jupyter
 - Microsoft Office
 - iWork
 
@@ -104,7 +110,7 @@ National Research University Higher School of Economics, Russia*
 
 ---
 
-## 📌 Miscellaneous
+## 📌 Additional activities
 
 **Professional interests**
 - Data science
@@ -130,6 +136,6 @@ National Research University Higher School of Economics, Russia*
 
 **Dr. Abdel O. Kenoufi**  
 Doctor in Theoretical Physics and Mathematics  
-Member, Interdisciplinary European Academy of Sciences  
+Interdisciplinary European Academy of Sciences  
 📧 dr.abdel.kenoufi@gmail.com  
 📱 +33 6 52 16 98 75
