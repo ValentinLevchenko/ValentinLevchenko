@@ -63,22 +63,22 @@ National Research University Higher School of Economics, Russia*
 - Operations research
 - Stochastic processes
 - Ordinary and partial differential equations
-- Graph Theory and algorithms
+- Graph theory and Algorithms
 - Optimization
 
 **Computer Science**
-- Data science and big data analytics
+- Data science and Big Data analytics
 - Software testing
 - Operating systems
 - Parallel computing (MPI, OpenMP, Kokkos)
 - Databases (PostgreSQL, MongoDB, Neo4j)
 
 **Programming**
-- Python (NumPy, SciPy, pandas, PyTorch, JAX, Optax)
+- Python (NumPy, SciPy, pandas, PyTorch, JAX, Optax, scikit-learn, Matplotlib)
 - C / C++
+- SQL
 - Matlab
 - Octave
-- SQL
 
 **Basic knowledge**
 - Java, Ruby, Prolog, C#, Swift
@@ -119,7 +119,7 @@ National Research University Higher School of Economics, Russia*
 - Swimming, hiking
 
 **Personal development**
-- Chess, languages, history, opera
+- Chess, languages, history, cooking, opera
 
 **Travel**
 - Central, Western, and Southern Europe
